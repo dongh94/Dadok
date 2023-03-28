@@ -1,0 +1,7 @@
+backend : 8082
+frontend : 8080
+nodejs : 3001
+TURN server : 3478
+openvidu server : 4443
+KMS : 8888
+MYSQL : 3306
